@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# UCSB Carpentry Instructors' Pages
+
+This repo serves as the shared documentation of the UCSB Library's Carpentry Instructors.
+[12/10/2018 Planning Meeting](https://github.com/UCSBCarpentry/instructors/instructors/20181210-meeting)
+      
+
+## GitHub Pages Documentation
 
 You can use the [editor on GitHub](https://github.com/UCSBCarpentry/instructors/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
