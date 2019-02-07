@@ -3,7 +3,7 @@
 This repo serves as the shared documentation of the UCSB Library's Carpentry Instructors.
 [12/10/2018 Planning Meeting](https://github.com/UCSBCarpentry/instructors/instructors/20181210-meeting)
       
-* [UCSB Workshop Manual] (https://github.com/UCSBCarpentry/instructors/workshopmanual.md)
+* [UCSB Workshop Manual] (/instructors/workshopmanual.md)
 
 
 ## GitHub Pages Documentation
