@@ -5,9 +5,9 @@ This repo serves as the shared documentation of the UCSB Library's Carpentry Ins
 * [UCSB Workshop Manual](workshopmanual.md)
 
 ## Work Sessions
-[02/13/2019](20190213)
-[02/13/2019](20190212)
-[12/10/2018 Planning Meeting](https://github.com/UCSBCarpentry/instructors/instructors/20181210-meeting)
+* [02/13/2019](20190213.md)
+* [02/13/2019](20190212.md)
+* [12/10/2018 Planning Meeting](https://github.com/UCSBCarpentry/instructors/instructors/20181210-meeting)
 
 ## GitHub Pages Documentation
 
