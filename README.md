@@ -3,6 +3,7 @@
 This repo serves as the shared documentation of the UCSB Library's Carpentry Instructors.
       
 * [UCSB Workshop Manual](workshopmanual.md)
+* [Teaching Notes](teachingnotes.md)
 
 ## Work Sessions
 * [02/13/2019](20190213.md)
