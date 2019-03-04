@@ -6,6 +6,7 @@ This repo serves as the shared documentation of the UCSB Library's Carpentry Ins
 * [Teaching Notes](teachingnotes.md)
 
 ## Work Sessions
+* [02/20/2019](20190220.md)
 * [02/13/2019](20190213.md)
 * [02/12/2019](20190212.md)
 * [12/10/2018 Planning Meeting](20181210-meeting.md)
