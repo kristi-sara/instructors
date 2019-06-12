@@ -7,8 +7,4 @@
 * EventBrite:  make 30 tickets available, and waiting list of 10.
 * Don't forget to include data downloads on the setup instructions.
 
-Send announcements to:
-* [Erika Klukovitch] (erika@soc.ucsb.edu), Sociology graduate student advisor
-* eco.data.science
-* R ladies
-* collman
+## Publicize to list:  See spreadsheet in Google shared Drive for UCSB carpentry
