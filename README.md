@@ -1,7 +1,8 @@
 # UCSB Carpentry Instructors' Pages
 
 This repo serves as the shared documentation of the UCSB Library's Carpentry Instructors.
-      
+
+* ### [UCSB Software Carpentry shared drive](https://drive.google.com/drive/folders/0AH4FCTIaX9AXUk9PVA) with meeting notes and other organizing documents.
 * [UCSB Workshop Manual](workshopmanual.md)
 * [Teaching Notes](teachingnotes.md)
 
